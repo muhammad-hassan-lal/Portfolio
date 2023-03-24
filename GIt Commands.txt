@@ -1,0 +1,14 @@
+1.git ignore (optional)
+2.git init
+3.git add .
+4.git commit -m "initial commit" (commit initially when you add for the first time)
+5 git status (Optional just to check our bash statu)
+6.git remote add origin git@github.com:repository SSH link
+7.git push origin master
+
+
+for updation 
+git status
+git add .
+git commit -m "Update Message"
+git push origin master
